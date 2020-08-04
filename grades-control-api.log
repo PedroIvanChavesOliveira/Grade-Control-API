@@ -1,0 +1,170 @@
+2020-08-04T13:41:31.825Z [grades-control-api] info: API Started! 
+2020-08-04T13:42:37.732Z [grades-control-api] info: API Started! 
+2020-08-04T14:10:26.441Z [grades-control-api] info: API Started! 
+2020-08-04T14:11:34.048Z [grades-control-api] info: API Started! 
+2020-08-04T14:12:01.762Z [grades-control-api] error: POST /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:12:11.016Z [grades-control-api] error: POST /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:12:16.338Z [grades-control-api] error: POST /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:12:33.621Z [grades-control-api] error: POST /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:24:07.611Z [grades-control-api] info: API Started! 
+2020-08-04T14:24:35.534Z [grades-control-api] info: API Started! 
+2020-08-04T14:24:57.945Z [grades-control-api] info: API Started! 
+2020-08-04T14:25:13.064Z [grades-control-api] info: API Started! 
+2020-08-04T14:25:17.338Z [grades-control-api] error: PUT /grades - Invalid status code: 48 
+2020-08-04T14:25:29.631Z [grades-control-api] error: PUT /grades - Invalid status code: 48 
+2020-08-04T14:25:50.336Z [grades-control-api] info: API Started! 
+2020-08-04T14:25:52.516Z [grades-control-api] error: PUT /grades - Invalid status code: 48 
+2020-08-04T14:26:52.937Z [grades-control-api] info: API Started! 
+2020-08-04T14:29:24.329Z [grades-control-api] info: API Started! 
+2020-08-04T14:30:33.966Z [grades-control-api] info: API Started! 
+2020-08-04T14:32:29.627Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:32:42.829Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:34:10.872Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:34:18.698Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:35:50.742Z [grades-control-api] info: API Started! 
+2020-08-04T14:36:16.589Z [grades-control-api] error: PUT /grades - grades is not defined 
+2020-08-04T14:36:44.827Z [grades-control-api] info: API Started! 
+2020-08-04T14:36:50.541Z [grades-control-api] error: PUT /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:37:09.085Z [grades-control-api] error: PUT /grades - Student, subject, type e value devem ser cadastrado! 
+2020-08-04T14:40:25.014Z [grades-control-api] info: API Started! 
+2020-08-04T14:40:46.305Z [grades-control-api] info: API Started! 
+2020-08-04T14:41:42.965Z [grades-control-api] info: API Started! 
+2020-08-04T14:47:14.024Z [grades-control-api] info: API Started! 
+2020-08-04T14:47:46.700Z [grades-control-api] info: API Started! 
+2020-08-04T14:51:11.411Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:51:19.587Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:52:55.421Z [grades-control-api] info: API Started! 
+2020-08-04T14:53:13.279Z [grades-control-api] error: PUT /grades - Index Inválido 
+2020-08-04T14:53:48.367Z [grades-control-api] info: API Started! 
+2020-08-04T14:56:57.340Z [grades-control-api] info: API Started! 
+2020-08-04T14:57:04.662Z [grades-control-api] info: API Started! 
+2020-08-04T15:00:32.460Z [grades-control-api] info: API Started! 
+2020-08-04T15:01:55.121Z [grades-control-api] info: API Started! 
+2020-08-04T15:06:58.174Z [grades-control-api] info: API Started! 
+2020-08-04T15:08:39.311Z [grades-control-api] info: API Started! 
+2020-08-04T15:09:29.263Z [grades-control-api] info: API Started! 
+2020-08-04T15:15:39.608Z [grades-control-api] info: API Started! 
+2020-08-04T15:18:11.843Z [grades-control-api] info: API Started! 
+2020-08-04T15:19:17.101Z [grades-control-api] info: API Started! 
+2020-08-04T15:19:40.355Z [grades-control-api] info: API Started! 
+2020-08-04T15:19:59.737Z [grades-control-api] info: API Started! 
+2020-08-04T15:21:52.695Z [grades-control-api] info: API Started! 
+2020-08-04T15:23:13.871Z [grades-control-api] info: API Started! 
+2020-08-04T15:24:24.560Z [grades-control-api] info: API Started! 
+2020-08-04T15:26:08.157Z [grades-control-api] info: API Started! 
+2020-08-04T15:29:37.996Z [grades-control-api] info: API Started! 
+2020-08-04T15:30:16.665Z [grades-control-api] info: API Started! 
+2020-08-04T15:35:44.177Z [grades-control-api] info: API Started! 
+2020-08-04T15:36:37.700Z [grades-control-api] info: API Started! 
+2020-08-04T15:38:40.934Z [grades-control-api] info: API Started! 
+2020-08-04T15:39:40.224Z [grades-control-api] info: API Started! 
+2020-08-04T15:40:36.053Z [grades-control-api] info: API Started! 
+2020-08-04T15:49:32.074Z [grades-control-api] info: API Started! 
+2020-08-04T15:51:27.886Z [grades-control-api] info: API Started! 
+2020-08-04T15:51:52.787Z [grades-control-api] info: API Started! 
+2020-08-04T15:52:42.698Z [grades-control-api] info: API Started! 
+2020-08-04T15:52:50.978Z [grades-control-api] info: API Started! 
+2020-08-04T15:55:50.975Z [grades-control-api] info: API Started! 
+2020-08-04T15:55:53.934Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T15:57:28.136Z [grades-control-api] info: API Started! 
+2020-08-04T15:57:35.354Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T15:57:39.669Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T15:57:50.590Z [grades-control-api] info: API Started! 
+2020-08-04T15:58:01.202Z [grades-control-api] info: API Started! 
+2020-08-04T16:02:02.858Z [grades-control-api] info: API Started! 
+2020-08-04T16:02:53.515Z [grades-control-api] info: API Started! 
+2020-08-04T16:02:55.690Z [grades-control-api] error: GET /grades - Cannot read property 'forEach' of undefined 
+2020-08-04T16:03:12.232Z [grades-control-api] info: API Started! 
+2020-08-04T16:04:13.372Z [grades-control-api] info: API Started! 
+2020-08-04T16:04:49.173Z [grades-control-api] info: API Started! 
+2020-08-04T16:05:45.875Z [grades-control-api] info: API Started! 
+2020-08-04T16:06:01.454Z [grades-control-api] info: API Started! 
+2020-08-04T16:06:31.924Z [grades-control-api] info: API Started! 
+2020-08-04T16:07:46.079Z [grades-control-api] info: API Started! 
+2020-08-04T16:07:56.987Z [grades-control-api] info: API Started! 
+2020-08-04T16:07:59.224Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T16:08:47.894Z [grades-control-api] info: API Started! 
+2020-08-04T16:10:13.944Z [grades-control-api] info: API Started! 
+2020-08-04T17:32:23.912Z [grades-control-api] info: API Started! 
+2020-08-04T17:33:08.811Z [grades-control-api] info: API Started! 
+2020-08-04T17:33:10.942Z [grades-control-api] error: GET /grades - Unexpected token o in JSON at position 1 
+2020-08-04T17:40:27.346Z [grades-control-api] info: API Started! 
+2020-08-04T17:40:29.339Z [grades-control-api] error: GET /grades - Unexpected token o in JSON at position 1 
+2020-08-04T17:40:56.013Z [grades-control-api] info: API Started! 
+2020-08-04T17:41:10.281Z [grades-control-api] info: API Started! 
+2020-08-04T17:41:23.930Z [grades-control-api] error: GET /grades - Unexpected token u in JSON at position 0 
+2020-08-04T17:41:34.924Z [grades-control-api] info: API Started! 
+2020-08-04T17:41:54.337Z [grades-control-api] info: API Started! 
+2020-08-04T17:43:43.012Z [grades-control-api] info: API Started! 
+2020-08-04T17:44:49.651Z [grades-control-api] info: API Started! 
+2020-08-04T17:44:52.538Z [grades-control-api] error: GET /grades - Invalid status code: 0 
+2020-08-04T17:45:20.772Z [grades-control-api] info: API Started! 
+2020-08-04T17:45:22.962Z [grades-control-api] error: GET /grades - Invalid status code: 15 
+2020-08-04T17:45:57.598Z [grades-control-api] info: API Started! 
+2020-08-04T17:46:00.401Z [grades-control-api] error: GET /grades - Invalid status code: 15 
+2020-08-04T17:46:14.537Z [grades-control-api] info: API Started! 
+2020-08-04T17:46:34.208Z [grades-control-api] info: API Started! 
+2020-08-04T17:49:38.685Z [grades-control-api] info: API Started! 
+2020-08-04T17:49:41.817Z [grades-control-api] error: GET /grades - sumary is not defined 
+2020-08-04T17:49:49.802Z [grades-control-api] info: API Started! 
+2020-08-04T17:49:52.443Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T17:50:15.858Z [grades-control-api] info: API Started! 
+2020-08-04T17:50:40.607Z [grades-control-api] info: API Started! 
+2020-08-04T17:50:52.287Z [grades-control-api] info: API Started! 
+2020-08-04T17:51:24.017Z [grades-control-api] info: API Started! 
+2020-08-04T17:54:42.964Z [grades-control-api] info: API Started! 
+2020-08-04T17:54:44.961Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T17:59:42.230Z [grades-control-api] info: API Started! 
+2020-08-04T17:59:43.564Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T17:59:49.482Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T17:59:53.799Z [grades-control-api] error: GET /grades - Invalid status code: 41 
+2020-08-04T18:00:10.742Z [grades-control-api] info: API Started! 
+2020-08-04T18:01:34.172Z [grades-control-api] info: API Started! 
+2020-08-04T18:02:37.639Z [grades-control-api] info: API Started! 
+2020-08-04T18:03:19.419Z [grades-control-api] info: API Started! 
+2020-08-04T18:03:33.970Z [grades-control-api] info: API Started! 
+2020-08-04T18:04:16.162Z [grades-control-api] info: API Started! 
+2020-08-04T18:04:16.371Z [grades-control-api] error: GET /grades - Cannot set headers after they are sent to the client 
+2020-08-04T18:04:40.953Z [grades-control-api] info: API Started! 
+2020-08-04T18:04:49.845Z [grades-control-api] info: API Started! 
+2020-08-04T18:04:51.435Z [grades-control-api] error: GET /grades - Invalid status code: [ [Object], [Object], [Object] ] 
+2020-08-04T18:05:34.915Z [grades-control-api] info: API Started! 
+2020-08-04T18:05:51.828Z [grades-control-api] info: API Started! 
+2020-08-04T18:05:53.549Z [grades-control-api] error: GET /grades - Cannot set headers after they are sent to the client 
+2020-08-04T18:05:55.471Z [grades-control-api] error: GET /grades - Cannot set headers after they are sent to the client 
+2020-08-04T18:06:51.469Z [grades-control-api] info: API Started! 
+2020-08-04T18:09:09.450Z [grades-control-api] info: API Started! 
+2020-08-04T18:10:27.455Z [grades-control-api] info: API Started! 
+2020-08-04T18:11:05.415Z [grades-control-api] info: API Started! 
+2020-08-04T18:11:09.622Z [grades-control-api] info: API Started! 
+2020-08-04T18:11:34.513Z [grades-control-api] info: API Started! 
+2020-08-04T18:13:13.381Z [grades-control-api] info: API Started! 
+2020-08-04T18:13:45.046Z [grades-control-api] info: API Started! 
+2020-08-04T18:15:22.401Z [grades-control-api] info: API Started! 
+2020-08-04T18:19:38.680Z [grades-control-api] info: API Started! 
+2020-08-04T18:21:48.014Z [grades-control-api] info: API Started! 
+2020-08-04T18:23:37.906Z [grades-control-api] info: API Started! 
+2020-08-04T18:23:38.528Z [grades-control-api] error: GET /grades - subjectPerStudent is not defined 
+2020-08-04T18:23:53.224Z [grades-control-api] info: API Started! 
+2020-08-04T18:24:48.179Z [grades-control-api] info: API Started! 
+2020-08-04T18:26:45.384Z [grades-control-api] info: API Started! 
+2020-08-04T18:27:48.116Z [grades-control-api] info: API Started! 
+2020-08-04T18:28:17.053Z [grades-control-api] info: API Started! 
+2020-08-04T18:28:59.209Z [grades-control-api] info: API Started! 
+2020-08-04T18:29:36.673Z [grades-control-api] info: API Started! 
+2020-08-04T18:37:05.498Z [grades-control-api] info: API Started! 
+2020-08-04T18:39:43.874Z [grades-control-api] info: API Started! 
+2020-08-04T18:40:06.469Z [grades-control-api] info: API Started! 
+2020-08-04T18:47:02.166Z [grades-control-api] info: API Started! 
+2020-08-04T18:47:40.643Z [grades-control-api] info: API Started! 
+2020-08-04T18:48:12.654Z [grades-control-api] info: API Started! 
+2020-08-04T18:48:36.625Z [grades-control-api] info: API Started! 
+2020-08-04T18:49:28.132Z [grades-control-api] info: API Started! 
+2020-08-04T18:49:50.872Z [grades-control-api] info: API Started! 
+2020-08-04T18:49:57.336Z [grades-control-api] info: API Started! 
+2020-08-04T18:51:08.040Z [grades-control-api] info: API Started! 
+2020-08-04T18:51:14.900Z [grades-control-api] info: API Started! 
+2020-08-04T18:51:55.608Z [grades-control-api] info: API Started! 
+2020-08-04T18:52:33.204Z [grades-control-api] error: GET /grades - ENOENT: no such file or directory, open 'D:\Trabalhos\IGTI\Desenvolvedor Full Stack\Módulo 2\exercicios-mod-2\desafio\grades-control-api\grades.json' 
+2020-08-04T18:57:01.657Z [grades-control-api] info: API Started! 
+2020-08-04T19:01:14.555Z [grades-control-api] error: PUT /grades - Index Inválido 
