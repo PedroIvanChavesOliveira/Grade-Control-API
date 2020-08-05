@@ -1,6 +1,28 @@
 # Grade-Control-API
   Exercício realizado no Bootcamp em Desenvolvedor Full Stack do IGTI
 
+# Configuração
+
+  Passos para utilização do código:
+  
+  1. Instalar o Node.js (https://nodejs.org/en/download/);
+  2. Baixar o Express no VS Code (npm install express);
+  3. Baixar o Winston no VS Code (npm install winston);
+  4. Baixar o nodemon no VS Code (npm install nodemon);
+  5. Baixar o Insomnia (https://insomnia.rest/download/);
+  6. No Insomnia criar uma pasta para armazenar os testes das rotas:
+  
+    - Dentro da pasta deve adicionar os seguintes arquivos:
+      - GET: grades/totalGrade/:student/:subject
+      - GET: grades/mediaGrade/:subject/:type
+      - GET: top3BestGrade/:subject/:type
+      - GET: grades/:id
+      - PUT: grades/:id
+      - POST: grades
+      - DELETE: grades/:id  
+  7. Usar a seguinte URL: http://localhost:3000/ com o acréscimo do nome dos arquivos criados (EX: http://localhost:3000/grades/totalGrade/:student/:subject);
+  8. Executar o código;
+
 # Objetivos
 
   Exercitar os conceitos trabalhados no módulo para criação de uma API, criando endpoints
